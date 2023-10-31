@@ -1723,12 +1723,8 @@
             "score2": 0,
             "score1i": 0,
             "score2i": 0,
-            "goals1": [
-                
-            ],
-            "goals2": [
-                
-            ],
+            "goals1": [],
+            "goals2": [],
             "group": "Group C",
             "stadium": {
               "key": "luzhniki",
